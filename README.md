@@ -27,7 +27,7 @@ dbus-launch xfce4-session &
 
 if you get too much output and don't want it then redirect the output to /tmp
 
-change the last line from dbus-launch xfce4-session & to dbus-launch xfce4-session >> $PREFIX/tmp/$RANDOM.txt
+change the last line from dbus-launch xfce4-session & to dbus-launch xfce4-session & >> $PREFIX/tmp/$RANDOM.txt 2>&1
 
 Note: replace xfce4-session with your session
 # Now setup sparkle app
