@@ -17,7 +17,7 @@ dbus-launch xfce4-session &
 #############################
 
 Note: replace xfce4-session with your session
-
+https://i.postimg.cc/jjhkXGt4/IMG-20220424-180342.jpg
 # Now setup sparkle app
 Open sparkle and click on edit user.sh
 Now delete everything and click save
