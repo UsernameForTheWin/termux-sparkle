@@ -2,9 +2,13 @@
 This will teach you how to use sparkle(Wayland server) in termux desktops
 
 # Screenshot
+
+
 <div align="center">
     <img src="screenshot.jpg" width="400px"</img> 
 </div>
+
+
 # Type this command
 nano sparkle.sh
 # Now paste these lines into it
