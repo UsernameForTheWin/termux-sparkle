@@ -11,6 +11,8 @@ export DISPLAY=:0
 
 dbus-launch xfce4-session &
 
+#############################
+
 Note: replace xfce4-session with your session
 
 # Now setup sparkle app
