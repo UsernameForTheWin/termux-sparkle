@@ -9,7 +9,7 @@ This will teach you how to use sparkle(Wayland server) in termux desktops
 # Type this command
 nano sparkle.sh
 # Now paste these lines into it
-#!$PREFIX/bin/bash
+#!$PREFIX/bin/bash 
 set -e 
 XDG_RUNTIME_DIR=/data/data/com.sion.sparkle/files Xwayland &
 sleep 1
